@@ -1,4 +1,4 @@
-8# Bitcoin Ticker
+# Bitcoin Ticker
 - Crypto currency price checking app built with Flutter.
 - Used the CoinAPI to fetch live data.
 - Based on the challenge in Angela Yu's "The Complete Flutter Development Bootcamp" course in Udemy.
